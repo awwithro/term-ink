@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/awwithro/term_ink/pkg/inkgrpc"
+	"github.com/awwithro/term-ink/pkg/inkgrpc"
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/key"
 	tea "github.com/charmbracelet/bubbletea"
